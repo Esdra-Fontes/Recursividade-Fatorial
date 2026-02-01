@@ -1,12 +1,12 @@
-🌐 **Recursividade — Fatorial**
+🌐 Recursividade — Fatorial:
 ---
 Este repositório apresenta um exemplo de recursividade em JavaScript aplicado ao cálculo do fatorial de um número. Recursividade é uma técnica na qual uma função se chama repetidamente até atingir uma condição de parada (caso base), permitindo resolver problemas reduzindo-os a subproblemas menores.
 
-📌 **Objetivo do Projeto**
+📌 Objetivo do Projeto:
 ---
 O objetivo deste projeto é demonstrar como aplicar recursividade em JavaScript para calcular o fatorial de um número. Ele também serve como exemplo de organização de um projeto web simples e pode ser usado para estudos e prática de lógica de programação.
 
-🛠️ **Tecnologias Utilizadas**
+🛠️ Tecnologias Utilizadas:
 ---
 - **HTML5** – Estrutura das páginas  
 - **JavaScript** – Estruturas condicionais e lógica de execução
