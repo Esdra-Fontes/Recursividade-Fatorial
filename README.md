@@ -27,5 +27,6 @@ Recursividade-Fatorial/ │ ├── index.html
 - Conceito de recursividade em programação
 - Como definir um caso base para evitar loops infinitos
 - Estrutura de um projeto web simples com HTML e JavaScript
+- Boas práticas na organização de projetos web
 
 👤 Autor: Esdra Fontes
